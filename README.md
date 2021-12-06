@@ -7,7 +7,8 @@ I implemented a lot of tests like histogram checking, Euclidian Distance (Norm L
 
 Here is a video where I'm comparing two images i saved as static Texture2D images and the Render Target. 
 
-[Video](https://www.youtube.com/watch?v=AOiE3Ms9T7E&feature=youtu.be)
+[![Video](http://img.youtube.com/vi/AOiE3Ms9T7E/0.jpg)](https://www.youtube.com/watch?v=AOiE3Ms9T7E)
+
 
 I will continue my reseach, I hope to extend the UE4 editor to the imshow functionalities to so I can quickly conduct analysis rather than manually saving the images and checking them.
 
